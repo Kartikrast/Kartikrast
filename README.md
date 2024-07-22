@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/229e8e61-8391-47e8-998b-192d3e20c7b3)
+![image](https://github.com/user-attachments/assets/2d6a5b71-7416-49cc-b66c-68cc7d3d7c7e)
+
 
 
 - 👋 Hi, I’m @Kartikrast
