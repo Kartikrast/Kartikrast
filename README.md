@@ -5,4 +5,4 @@ Passionate and ambitious data science enthusiast skilled in Python, SQL, Databas
 Check out my project portfolio: **kartikrast.github.io**
 
 ![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![image]([https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue))
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
