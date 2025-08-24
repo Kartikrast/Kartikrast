@@ -13,3 +13,11 @@ Passionate and ambitious data science enthusiast skilled in Python, SQL, Databas
 </p>
 
 ---
+<p align="center">
+  <a href="mailto:kartik.keyrast@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/kartikeyrastogi162/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gopal-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
