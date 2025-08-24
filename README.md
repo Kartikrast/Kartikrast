@@ -1,5 +1,7 @@
 #### Hi there, I'm Kartikey Rastogi 👋
+
 **I make data flow so businesses can grow.**
+
 -- Will work for appreciation and a kind renumeration!! 🤓
 
 ---
