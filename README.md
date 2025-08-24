@@ -8,7 +8,7 @@ Passionate and ambitious data science enthusiast skilled in Python, SQL, Databas
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,mongodb,redis,aws,gcp,tensorflow,git,github,vscode,kafka,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,mongodb,redis,aws,gcp,tensorflow,kafka,docker,git,github,vscode,ubuntu&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" height="40" />
 </p>
 
