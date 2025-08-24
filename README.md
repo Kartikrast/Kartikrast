@@ -2,7 +2,7 @@
 
 **I make data flow so businesses can grow.**
 
--- Will work for appreciation and a kind renumeration!! 🤓
+**PS**: Will work for appreciation and a kind renumeration!! 🤓
 
 ---
 
