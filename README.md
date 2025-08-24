@@ -13,6 +13,7 @@
 | 💻 Programming       | Python, SQL                                             |
 | 🖥️ Backend           | FastAPI, Microservices, REST APIs                       |
 | ☁️ Cloud & DevOps    | AWS, GCP, Git, Jenkins, Docker                          |
+| 🪒 Data Scraping     | Appium, Selenium, BeautifulSoup                         |
 | 🧠 AI/ML             | Scikit-learn, TensorFlow, Pandas, NumPy                 |
 | 💱 Big Data Tech     | Kafka, PySpark, Hadoop, Postgres, MongoDB, Airflow      |
 | 📚 CS Fundamentals   | DSA, DBMS, OS, System Design                            |
