@@ -1,6 +1,21 @@
 #### Hi there, I'm Kartikey Rastogi 👋
+**I make data flow so businesses can grow.**
+-- Will work for appreciation and a kind renumeration!! 🤓
 
-Passionate and ambitious data science enthusiast skilled in Python, SQL, Database Development, Machine Learning, ETL Pipeline creation, Data Visualization, Business Analysis/Intelligence, and process automation. Solving real-world problems for business owners ready to tackle any challenge. Always learning.
+---
+
+## 🧠 Skills Summary
+
+| Domain              | Skills / Tools                                           |
+|---------------------|----------------------------------------------------------|
+| 💻 Programming       | Python, SQL                                             |
+| 🖥️ Backend           | FastAPI, Microservices, REST APIs                       |
+| ☁️ Cloud & DevOps    | AWS, GCP, Git, Jenkins, Docker                          |
+| 🧠 AI/ML             | Scikit-learn, TensorFlow, Pandas, NumPy                 |
+| 💱 Big Data Tech     | Kafka, PySpark, Hadoop, Postgres, MongoDB, Airflow      |
+| 📚 CS Fundamentals   | DSA, DBMS, OS, System Design                            |
+
+---
 
 **Check out my project portfolio:** [kartikrast.github.io](https://kartikrast.github.io/)
 ---
@@ -8,7 +23,7 @@ Passionate and ambitious data science enthusiast skilled in Python, SQL, Databas
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,mongodb,redis,aws,gcp,tensorflow,kafka,docker,git,github,vscode,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,mongodb,redis,fastapi,aws,gcp,tensorflow,kafka,docker,git,github,vscode,ubuntu&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" height="40" />
 </p>
 
