@@ -36,6 +36,6 @@
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/kartikeyrastogi162/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gopal-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kartikey-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
